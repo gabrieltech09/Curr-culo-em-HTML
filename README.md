@@ -1,3 +1,5 @@
+https://github.com/gabrieltech09/Curr-culo-em-HTML
+
 Currículo Simples em HTML
 
 Este projeto é um currículo desenvolvido utilizando apenas HTML, com o objetivo de praticar a estrutura básica de páginas web.
@@ -18,4 +20,4 @@ Como visualizar:
 
 Basta abrir o arquivo index.html em qualquer navegador.
 
-Desenvolvido para fins de estudo e prática 🚀
+Desenvolvido para fins de estudo e prática, diretamente do site https://roadmap.sh.
